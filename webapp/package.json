@@ -1,5 +1,5 @@
 {
-  "name": "supportwithcrypto",
+  "name": "nextjstailwindmongo",
   "private": true,
   "scripts": {
     "dev": "next dev",
